@@ -12,7 +12,7 @@ public class Ejercicio01_bloque2_CambioSigno {
 		for (int i = 0; i < array.length; i++) {
 			if (array[i]%2 ==0 ) {
 				System.out.println(array[i]*(-1));  //array[i] *=-1
-				
+				System.out.println("Hola");
 			}
 		}
 		
